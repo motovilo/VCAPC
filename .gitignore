@@ -1,0 +1,6 @@
+build/*
+!build/.gitkeep
+
+# ignore Eagle backup files
+*.s#[0-9]
+*.b#[0-9]
